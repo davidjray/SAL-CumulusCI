@@ -8,7 +8,7 @@ project:
         install_class: InstallScript
 
     git:
-        repo_url: https://github.com/sebastianocostanzo/SAL-CumulusCI.git
+        repo_url: 'https://github.com/sebastianocostanzo/SAL-CumulusCI.git'
 
     dependencies:
         - github: https://github.com/SalesforceFoundation/EDA
