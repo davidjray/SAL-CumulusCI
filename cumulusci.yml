@@ -39,7 +39,7 @@ flows:
                 options:
                     update_dependencies:
                         dependencies:
-                            - github: https://github.com/sebastianocostanzo/EDA
+                            - github: https://github.com/SalesforceFoundation/EDA
                             - namespace: sfpw
                               version: 1.8
                     custom_settings_base:
