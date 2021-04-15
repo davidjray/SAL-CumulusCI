@@ -11,7 +11,7 @@ project:
         repo_url: https://github.com/sebastianocostanzo/SAL-CumulusCI
 
     dependencies:
-        - github: https://github.com/SalesforceFoundation/EDA
+        - github: https://github.com/sebastianocostanzo/EDA
 
 flows:
 
@@ -39,7 +39,7 @@ flows:
                 options:
                     update_dependencies:
                         dependencies:
-                            - github: https://github.com/SalesforceFoundation/EDA
+                            - github: https://github.com/sebastianocostanzo/EDA
                             - namespace: sfpw
                               version: 1.8
                     custom_settings_base:
