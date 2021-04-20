@@ -40,6 +40,7 @@ flows:
                     update_dependencies:
                         dependencies:
                             - github: https://github.com/sebastianocostanzo/EDA
+                              tag: rel/1.113
                             - namespace: sfpw
                               version: 1.8
                     custom_settings_base:
