@@ -11,7 +11,7 @@ project:
         repo_url: https://github.com/sebastianocostanzo/SAL-CumulusCI
 
     dependencies:
-        - github: https://github.com/sebastianocostanzo/EDA
+        - github: https://github.com/SFDOSeb/EDA
 
 flows:
 
@@ -39,7 +39,7 @@ flows:
                 options:
                     update_dependencies:
                         dependencies:
-                            - github: https://github.com/sebastianocostanzo/EDA
+                            - github: https://github.com/SFDOSeb/EDA
                               tag: rel/1.113
                             - namespace: sfpw
                               version: 1.8
