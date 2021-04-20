@@ -1,6 +1,6 @@
 # Salesforce Advisor Link Express Setup
 
-This read-only repository contains CumulusCI automation and unmanaged metadata components used in the Advisor Link MetaDeploy installer.
+This read-only repository contains CumulusCI automation and unmanaged metadata components used in the Advisor Link MetaDeploy installer. Seb change
 
 Visit the [Advisor Link topic](https://powerofus.force.com/s/topic/0TO80000000VXyzGAG/salesforce-advisor-link) on the Power of Us Hub for any questions about this repository.
 
